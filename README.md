@@ -49,7 +49,7 @@ I am also interested in **cloud computing**, **IT governance**, and **consulting
 
 📊 **IT Governance** – Studying best practices for **IT management and compliance**.  
 
-🔍 **AI & Chatbots** – Implementing **ChatGPT** for customer support automation.  
+🔍 **AI & Chatbots** – Implementing **AI** for customer support automation.  
 
 ---
 
@@ -63,10 +63,10 @@ I am also interested in **cloud computing**, **IT governance**, and **consulting
 
 ## 📫 Let's Connect  
 
-📩 Email: lemmashon@gmail.com  
+📩 Email: Leonardlemashon@gmail.com  
 🔗 [Portfolio Website](#)  
 🐦 [Twitter](@Mashon8945)  
-💼 [LinkedIn](#)  
+💼 [LinkedIn](https://www.linkedin.com/in/leonard-lemashon-283843201/)  
 
 ---
 
