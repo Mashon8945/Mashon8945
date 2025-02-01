@@ -39,7 +39,7 @@ I am also interested in **cloud computing**, **IT governance**, and **consulting
 
 🏡 **[Ecommerce API](#)** – A DRF-based ecommerce API.  
 
-🌍 **[Brightside Community](#)** – A CBO empowering kids to plant trees to reduce carbon emissions.  
+🌍 **[Brightside Community](https://brightsidecommunity.org/)** – A CBO empowering kids to plant trees to reduce carbon emissions.  
 
 ---
 
