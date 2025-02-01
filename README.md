@@ -19,6 +19,7 @@ I am also interested in **cloud computing**, **IT governance**, and **consulting
 🔹 **Languages & Frameworks**  
 - Python (Django, Django Rest Framework, fastApi, Flask)  
 - JavaScript (React, Next.js)  
+- C# (.Net framework)
 - HTML, CSS, Bootstrap  
 
 🔹 **Database & Cloud**  
@@ -36,9 +37,9 @@ I am also interested in **cloud computing**, **IT governance**, and **consulting
 
 🚀 **[Smart Caretaker](#)** – A WhatsApp-integrated chatbot property management system for tenant communication and automation.  
 
-🏡 **[Ecommerce API](#)** – A Django-based ecommerce API for student accommodation.  
+🏡 **[Ecommerce API](#)** – A DRF-based ecommerce API.  
 
-🌍 **[Brightside Community](#)** – Empowering kids to plant trees to reduce carbon emissions.  
+🌍 **[Brightside Community](#)** – A CBO empowering kids to plant trees to reduce carbon emissions.  
 
 ---
 
