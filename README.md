@@ -1,4 +1,4 @@
-# Leonard Lemashon  
+# Leonard Le'Mashon  
 
 👨‍💻 Software Engineer | IT Consultant | Web Developer  
 
