@@ -19,7 +19,7 @@ I am also interested in **cloud computing**, **IT governance**, and **consulting
 🔹 **Languages & Frameworks**  
 - Python (Django, Django Rest Framework, fastApi, Flask)  
 - JavaScript (React, Next.js)  
-- C# (.Net framework)
+- C# (ASP.Net framework)
 - HTML, CSS, Bootstrap  
 
 🔹 **Database & Cloud**  
